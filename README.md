@@ -28,6 +28,6 @@
     
 Enjoy!
     
-    ![image1](images/chatting.png)
+    ![image1](https://github.com/ChenLipschitz/UI-Chat-Room/blob/main/images/adam_connected.png)
     ![image2](images/adam_connected.png)
     ![image3](images/3chat.png)
