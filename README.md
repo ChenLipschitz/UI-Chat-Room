@@ -29,5 +29,5 @@
 Enjoy!
     
     ![image1](https://github.com/ChenLipschitz/UI-Chat-Room/blob/main/images/3chat.png)
-    ![image2](images/adam_connected.png)
+    ![image2](https://github.com/ChenLipschitz/UI-Chat-Room/blob/main/images/chatting.png)
     ![image3](images/3chat.png)
