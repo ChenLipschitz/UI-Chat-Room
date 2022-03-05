@@ -27,6 +27,7 @@
     the rest, run only the client side and enter the server's IP.
     
 Enjoy!
+Amit Berger and Chen Lipschitz
     
  ![image1](images/chatting.png)
  ![image2](images/adam_connected.png)
