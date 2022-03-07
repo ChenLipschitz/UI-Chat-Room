@@ -15,7 +15,7 @@ from PyQt5.QtWidgets import QVBoxLayout, QMessageBox, QTabWidget
 FORMAT = "utf-8"
 
 
-class MyTableWidget(QWidget):
+class Client(QWidget):
     def __init__(self, parent):
         super(QWidget, self).__init__(parent)
         # connection
@@ -179,6 +179,7 @@ class MyTableWidget(QWidget):
         print('Downloaded!')
 
         file.close()
+        socke.close()
 
     def progressBarUI(self):
         for i in range(101):
@@ -330,7 +331,7 @@ class Window(QMainWindow):
         super(Window, self).__init__()
         self.setGeometry(50, 50, 500, 300)
         self.setWindowTitle("Best-Chat-Ever")
-        self.table_widget = MyTableWidget(self)
+        self.table_widget = Client(self)
         self.setCentralWidget(self.table_widget)
         self.show()
 
