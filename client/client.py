@@ -179,7 +179,7 @@ class Client(QWidget):
         print('Downloaded!')
 
         file.close()
-        socke.close()
+        sock.close()
 
     def progressBarUI(self):
         for i in range(101):
